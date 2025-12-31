@@ -1,4 +1,10 @@
 # System Administration Lab Portfolio
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 🚀 My journey from Linux beginner to system administrator - documented through hands-on labs and real-world projects.
 
@@ -81,9 +87,8 @@ Storage: 20GB per VM
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your Profile]
-- Email: your.email@example.com
-- Blog: [Your Blog if any]
+- LinkedIn: [linkedin.com/in/chathuranga-bandara-a043552a7]
+- Email: achathuranga.b@gmail.com
 
 ## 📝 License
 
