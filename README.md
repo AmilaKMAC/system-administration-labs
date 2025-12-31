@@ -87,7 +87,7 @@ Storage: 20GB per VM
 
 ## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/chathuranga-bandara-a043552a7]
+- LinkedIn: [[Chathuranga-Bandara](https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)]
 - Email: achathuranga.b@gmail.com
 
 ## 📝 License
