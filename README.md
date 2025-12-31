@@ -58,7 +58,7 @@ This repository contains all my practice labs, scripts, and documentation as I l
 |--------|-------------|----------|
 | `backup-website.sh` | Automated website backup with rotation | [View](./phase4-automation/lab10-backup/backup-website.sh) |
 | `system-monitor.sh` | CPU, memory, disk monitoring | [View](./phase4-automation/lab11-monitoring/system-monitor.sh) |
-| `user-setup.sh` | Bulk user creation script | [View](./phase1-basics/lab01-users/user-setup.sh) |
+| `user-setup.sh` | Bulk user creation script | [View](./phase1-basics/lab01-users/script.sh) |
 
 ## 🎯 Current Goals
 
