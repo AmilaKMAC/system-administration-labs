@@ -78,7 +78,7 @@ This repository contains all my practice labs, scripts, and documentation as I l
 ```
 VirtualBox VMs:
 ├── Ubuntu 22.04 LTS (Primary)
-├── CentOS Stream 9 (RHEL-based practice)
+├── CentOS Stream 7 (RHEL-based practice)
 └── Kali Linux (Security tools)
 
 Network: NAT + Host-Only Adapter
@@ -87,7 +87,7 @@ Storage: 20GB per VM
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Chathuranga-Bandara(https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)]
+- LinkedIn: [Chathuranga-Bandara](https://www.linkedin.com/in/chathuranga-bandara-a043552a7/)
 - Email: achathuranga.b@gmail.com
 
 ## 📝 License
