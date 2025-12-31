@@ -28,7 +28,7 @@ This repository contains all my practice labs, scripts, and documentation as I l
 ## 📚 Lab Structure
 
 ### Phase 1: Linux Basics (Completed: ✅ / In Progress: 🔄 / Planned: 📝)
-- ✅ [Lab 01: User & Permission Management](./phase1-basics/lab01-users/)
+- ✅ [Lab 01: User & Permission Management](./'Lab 01 - User & Permission Management')
 - ✅ [Lab 02: File System & Storage](./phase1-basics/lab02-storage/)
 - 🔄 [Lab 03: Package Management](./phase1-basics/lab03-packages/)
 
