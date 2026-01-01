@@ -267,7 +267,7 @@ iostat
 | Task | Status | Notes |
 |------|--------|-------|
 | Disk Status Check | ✅ | Identified existing disks |
-| Virtual Disk Added | ✅ | 10GB disk added as /dev/sdb |
+| Virtual Disk Added | ✅ | 5GB disk added as /dev/sdb |
 | Partition Created | ✅ | /dev/sdb1 created successfully |
 | Filesystem Formatted | ✅ | ext4 filesystem created |
 | Manual Mount | ✅ | Mounted to /data |
@@ -367,18 +367,18 @@ sudo chmod 755 /data
 
 ## ✅ Lab Completion Checklist
 
-- [ ] Checked current disk status
-- [ ] Added new 10GB virtual disk
-- [ ] Created partition with fdisk
-- [ ] Formatted partition as ext4
-- [ ] Mounted partition manually
-- [ ] Configured persistent mount in fstab
-- [ ] Tested auto-mount after reboot
-- [ ] Verified disk usage commands
-- [ ] Documented all steps
-- [ ] Added screenshots
+- [x] Checked current disk status
+- [x] Added new 10GB virtual disk
+- [x] Created partition with fdisk
+- [x] Formatted partition as ext4
+- [x] Mounted partition manually
+- [x] Configured persistent mount in fstab
+- [x] Tested auto-mount after reboot
+- [x] Verified disk usage commands
+- [x] Documented all steps
+- [x] Added screenshots
 - [ ] Created automation scripts
-- [ ] Uploaded to GitHub
+- [x] Uploaded to GitHub
 
 ---
 
