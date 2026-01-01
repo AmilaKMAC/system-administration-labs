@@ -102,7 +102,7 @@ ls -l testfile.txt
 ### Issue: "Permission denied" when creating user
 **Solution:**
 ```bash
-# Make sure you're using sudo
+# Making sure using sudo at the beginning of the code
 sudo useradd -m username
 ```
 
@@ -135,10 +135,6 @@ sudo usermod -aG developers username
    - Use groups for shared access
    - Always test permissions after setting them
 
-## 🔗 Related Scripts
-
-- [`user-setup.sh`](./user-setup.sh) - Automated user creation
-- [`check-permissions.sh`](./check-permissions.sh) - Permission audit script
 
 ## 📚 Additional Resources
 
