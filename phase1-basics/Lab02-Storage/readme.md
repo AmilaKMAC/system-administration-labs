@@ -45,7 +45,9 @@ mount | grep "^/dev"
 ```
 
 **Screenshot:**
-![Disk Status Before](./screenshots/01-disk-status-before.png)
+![Disk Status Before](./screenshots/01-disk-status-before-01.png)
+![Disk Status Before](./screenshots/01-disk-status-before-02.png)
+![Disk Status Before](./screenshots/01-disk-status-before-03.png)
 
 ---
 
