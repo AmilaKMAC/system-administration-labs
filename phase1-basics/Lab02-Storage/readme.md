@@ -46,8 +46,10 @@ mount | grep "^/dev"
 
 **Screenshot:**
 ![Disk Status Before](./screenshots/01-disk-status-before-01.png)
+
 **Screenshot:**
 ![Disk Status Before](./screenshots/01-disk-status-before-02.png)
+
 **Screenshot:**
 ![Disk Status Before](./screenshots/01-disk-status-before-03.png)
 
@@ -105,6 +107,7 @@ sudo fdisk -l /dev/sdb
 
 **Screenshot:**
 ![Partition Created](./screenshots/03-partition-created-01.png)
+
 **Screenshot:**
 ![Partition Created](./screenshots/03-partition-created-02.png)
 
@@ -127,8 +130,10 @@ sudo blkid /dev/sdb1
 
 **Screenshot:**
 ![Filesystem Formatted](./screenshots/04-filesystem-formatted-01.png)
+
 **Screenshot:**
 ![Filesystem Formatted](./screenshots/04-filesystem-formatted-02.png)
+
 **Screenshot:**
 ![Filesystem Formatted](./screenshots/04-filesystem-formatted-03.png)
 
