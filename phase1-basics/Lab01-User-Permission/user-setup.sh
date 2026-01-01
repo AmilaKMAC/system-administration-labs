@@ -10,9 +10,14 @@ sudo useradd -m alice
 
 # Set passwords
 echo "[INFO] Setting passwords for users..."
-sudo passwd john
-sudo passwd sarah
-sudo passwd alice
+  echo "[INFO] Setting password for user: john..."
+  sudo passwd john
+  
+  echo "[INFO] Setting password for user: sarah..."
+  sudo passwd sarah
+    
+  echo "[INFO] Setting password for user: alice..."
+  sudo passwd alice
 
 # Create a group
 echo "[INFO] Creating group: developers..."
