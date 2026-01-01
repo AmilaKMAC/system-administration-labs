@@ -210,7 +210,10 @@ df -h | grep /data
 ```
 
 **Screenshot:**
-![fstab Configuration](./screenshots/06-fstab-configured.png)
+![fstab Configuration](./screenshots/06-fstab-configured-01.png)
+
+**Screenshot:**
+![fstab Configuration](./screenshots/06-fstab-configured-01.png)
 
 ---
 
