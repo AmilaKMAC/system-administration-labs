@@ -60,7 +60,7 @@ mount | grep "^/dev"
 2. Go to VM Settings → Storage
 3. Click the "+" icon next to "Controller: SATA"
 4. Choose "Create new disk"
-5. Set size to 10GB
+5. Set size to 5GB
 6. Start the VM
 
 **Verification:**
@@ -74,6 +74,7 @@ sudo fdisk -l /dev/sdb
 
 **Screenshot:**
 ![New Disk Added](./screenshots/02-new-disk-added-01.png)
+
 **Screenshot:**
 ![New Disk Added](./screenshots/02-new-disk-added-02.png)
 
@@ -103,7 +104,9 @@ sudo fdisk -l /dev/sdb
 ```
 
 **Screenshot:**
-![Partition Created](./screenshots/03-partition-created.png)
+![Partition Created](./screenshots/03-partition-created-01.png)
+**Screenshot:**
+![Partition Created](./screenshots/03-partition-created-02.png)
 
 ---
 
