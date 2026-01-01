@@ -15,7 +15,7 @@ Learn how to manage disk partitions, format file systems, mount drives, and conf
 
 - **OS**: Ubuntu 22.04 LTS
 - **VM**: VirtualBox
-- **Additional Disk**: 10GB virtual disk (to be added)
+- **Additional Disk**: 5GB virtual disk (to be added)
 - **Time**: 45-60 minutes
 
 ## 📝 Tasks
