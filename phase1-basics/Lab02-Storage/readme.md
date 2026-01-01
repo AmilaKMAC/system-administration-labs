@@ -251,7 +251,14 @@ iostat
 ```
 
 **Screenshot:**
-![Disk Usage](./screenshots/08-disk-usage.png)
+![Disk Usage](./screenshots/08-disk-usage-01.png)
+
+**Screenshot:**
+![Disk Usage](./screenshots/08-disk-usage-02.png)
+
+**Screenshot:**
+![Disk Usage](./screenshots/08-disk-usage-03.png)
+
 
 ---
 
