@@ -21,6 +21,15 @@ Learn how to manage disk partitions, format file systems, mount drives, and conf
 ## 📝 Tasks
 
 ### Task 1: Check Current Disk Status
+**Steps in VirtualBox:**
+- Used `df -h` to view disk space usage in a human-readable format  
+- Executed `lsblk` to identify available disks and partitions  
+- Ran `sudo fdisk -l` to inspect disk partition tables  
+- Verified mounted filesystems using `mount | grep "^/dev"`  
+- Confirmed overall disk health and storage configuration
+
+
+
 ```bash
 # View disk usage
 df -h
