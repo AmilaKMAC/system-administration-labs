@@ -67,13 +67,15 @@ mount | grep "^/dev"
 ```bash
 # Check if new disk is detected
 lsblk
-# Should see /dev/sdb (new 10GB disk)
+# Should see /dev/sdb (new 5GB disk)
 
 sudo fdisk -l /dev/sdb
 ```
 
 **Screenshot:**
-![New Disk Added](./screenshots/02-new-disk-added.png)
+![New Disk Added](./screenshots/02-new-disk-added-01.png)
+**Screenshot:**
+![New Disk Added](./screenshots/02-new-disk-added-02.png)
 
 ---
 
