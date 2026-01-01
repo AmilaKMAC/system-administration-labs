@@ -38,8 +38,7 @@ sudo chmod 770 /shared
 
 # Create files and test access
 echo "[INFO] Creating test file as user john..."
-sudo su - john
-touch /shared/project.txt
+sudo su - john touch /shared/project.txt
 
 # Verify Users & Group Membership
 echo "=== VERIFICATION PHASE INITIATED ==="
