@@ -126,7 +126,11 @@ sudo blkid /dev/sdb1
 ```
 
 **Screenshot:**
-![Filesystem Formatted](./screenshots/04-filesystem-formatted.png)
+![Filesystem Formatted](./screenshots/04-filesystem-formatted-01.png)
+**Screenshot:**
+![Filesystem Formatted](./screenshots/04-filesystem-formatted-02.png)
+**Screenshot:**
+![Filesystem Formatted](./screenshots/04-filesystem-formatted-03.png)
 
 ---
 
