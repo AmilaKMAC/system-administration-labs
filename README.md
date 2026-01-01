@@ -29,7 +29,7 @@ This repository contains all my practice labs, scripts, and documentation as I l
 
 ### Phase 1: Linux Basics (Completed: ✅ / In Progress: 🔄 / Planned: 📝)
 - ✅ [Lab 01: User & Permission Management](./phase1-basics/Lab01-User-Permission/)
-- ✅ [Lab 02: File System & Storage](./phase1-basics/lab02-storage/)
+- ✅ [Lab 02: File System & Storage](./phase1-basics/Lab02-Storage/)
 - 🔄 [Lab 03: Package Management](./phase1-basics/lab03-packages/)
 
 ### Phase 2: Networking Fundamentals
