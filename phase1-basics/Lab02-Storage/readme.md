@@ -160,7 +160,13 @@ cat /data/test-file.txt
 ```
 
 **Screenshot:**
-![Disk Mounted](./screenshots/05-disk-mounted.png)
+![Disk Mounted](./screenshots/05-disk-mounted-01.png)
+**Screenshot:**
+![Disk Mounted](./screenshots/05-disk-mounted-02.png)
+**Screenshot:**
+![Disk Mounted](./screenshots/05-disk-mounted-03.png)
+**Screenshot:**
+![Disk Mounted](./screenshots/05-disk-mounted-04.png)
 
 ---
 
