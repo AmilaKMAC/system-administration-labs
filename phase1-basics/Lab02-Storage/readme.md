@@ -229,7 +229,7 @@ cat /data/test-file.txt
 ```
 
 **Screenshot:**
-![Auto-mount After Reboot](./screenshots/07-auto-mount-verified.png)
+![Auto-mount After Reboot](./screenshots/07-auto-mount-verified-01.png)
 
 ---
 
