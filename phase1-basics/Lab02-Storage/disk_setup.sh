@@ -64,7 +64,7 @@ echo w # Write Changes
 partprobe $DISK
 sleep 2
 
-if [ ! -b "PARTITION" ]; then
+if [ ! -b "$PARTITION" ]; then
 	echo "Failed to Create Partition"
 	exit 1
 fi
@@ -139,7 +139,7 @@ echo ""
 echo "--- step 6: Configuring Persistent Mount"
 
 # Backup fstab
-cp /etc/fstab /etc/fstab.backup.(date +%Y%m%d_%H%M%S) # Created Backup File
+cp /etc/fstab /etc/fstab.backup.$(date +%Y%m%d_%H%M%S)  # Created Backup File
 echo "Backed up /etc/fstab"
 
 
