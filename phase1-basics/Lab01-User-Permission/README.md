@@ -154,4 +154,4 @@ sudo usermod -aG developers username
 ---
 
 **Completed:** December 31, 2025  
-**Next Lab:** [Lab 02 - File System & Storage](../lab02-storage/)
+**Next Lab:** [Lab 02 - File System & Storage](../Lab02-Storage/)
