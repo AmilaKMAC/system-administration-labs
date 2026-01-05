@@ -377,7 +377,7 @@ sudo chmod 755 /data
 - [x] Verified disk usage commands
 - [x] Documented all steps
 - [x] Added screenshots
-- [ ] Created automation scripts
+- [X] Created automation scripts
 - [x] Uploaded to GitHub
 
 ---
